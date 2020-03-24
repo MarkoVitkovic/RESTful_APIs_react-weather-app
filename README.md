@@ -18,10 +18,10 @@ This app is made with react and node.js. For this app I use [OpenWeather](https:
 ![](https://github.com/MarkoVitkovic/RESTful_APIs_react-weather-app/blob/master/web.png)
 
 ## Technologies
-* React - version 
-* Node.js - version 
-* Bootstrap - version 4
-* React-dom - version
+* [React](https://reactjs.org/docs/getting-started.html) - version 
+* [Node.js](https://nodejs.org/en/docs/) - version 
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - version 4
+* [React-dom](https://github.com/facebook/react) - version
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
