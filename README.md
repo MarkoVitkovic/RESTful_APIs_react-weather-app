@@ -12,7 +12,8 @@
 * [Contact](#contact)
 
 ## General info
-This app is made with react and node.js. For this app I use [OpenWeather](https://openweathermap.org/api)
+This app is made with react and node.js. For this app I use [OpenWeather](https://openweathermap.org/api).</br>
+Feel free to clone or download.
 
 ## Screenshots
 ![](https://github.com/MarkoVitkovic/RESTful_APIs_react-weather-app/blob/master/web.png)
@@ -28,6 +29,7 @@ Open terminal(cmd) and navigate:</br>
 `npx create-react-app my-app`</br>
 `cd my-app`</br>
 `npm start`</br>
+And Open source in Visual Studio Code.
 
 ## Available Scripts
 
@@ -57,21 +59,21 @@ Code:</br>
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Weather in any place, country, time
+* 100% correct
+* Responsive
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Add forecast for next 5 days or more
+* Add hourly forecast
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _finished_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Start this project to learn how to use APIs in react. 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [Marko Vitkovic](https://github.com/MarkoVitkovic) - feel free to contact me!
 
 
