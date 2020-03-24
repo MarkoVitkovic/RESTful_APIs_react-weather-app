@@ -29,7 +29,7 @@ Open terminal(cmd) and navigate:</br>
 `npx create-react-app my-app`</br>
 `cd my-app`</br>
 `npm start`</br>
-And Open source in Visual Studio Code.
+Open source in Visual Studio Code.
 
 ## Available Scripts
 
