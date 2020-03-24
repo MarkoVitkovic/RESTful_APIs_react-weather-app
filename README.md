@@ -1,5 +1,5 @@
 # Weather App
-> RESTful API made in react. Weather application
+> RESTful API made with react. Weather application
 
 ## Table of contents
 * [General info](#general-info)
