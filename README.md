@@ -47,7 +47,13 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Code Examples
 Show examples of usage:
-`put-your-code-here`
+`if(city && country){`</br>
+      `const api_call= await fetch(https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_key})`</br>
+      `const res = await api_call.json();`</br>
+      `console.log(res);`</br>
+      `this.setState({`</br>
+        `city: ${res.name}, ${res.sys.country},`</br>
+        `celsius:this.calcCels(res.main.temp)`</br>
 
 ## Features
 List of features ready and TODOs for future development
