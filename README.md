@@ -24,7 +24,10 @@ This app is made with react and node.js. For this app I use [OpenWeather](https:
 * [React-dom](https://github.com/facebook/react) - version
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+Open terminal(cmd) and navigate:
+`npx create-react-app my-app`
+`cd my-app`
+`npm start`
 
 ## Available Scripts
 
