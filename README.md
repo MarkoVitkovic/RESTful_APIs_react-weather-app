@@ -12,15 +12,16 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This app is made with react and node.js. For this app I use [OpenWeather](https://openweathermap.org/api)
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![](https://github.com/MarkoVitkovic/RESTful_APIs_react-weather-app/blob/master/web.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* React - version 
+* Node.js - version 
+* Bootstrap - version 4
+* React-dom - version
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
