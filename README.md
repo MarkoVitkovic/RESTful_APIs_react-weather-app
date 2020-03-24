@@ -46,7 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Code Examples
-Show examples of usage:
+Code:</br>
 `if(city && country){`</br>
       `const api_call= await fetch(https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_key})`</br>
       `const res = await api_call.json();`</br>
