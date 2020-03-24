@@ -1,5 +1,5 @@
-# Project Name
-> Here goes your awesome project description!
+# Weather App
+> RESTful API made in react. Weather application
 
 ## Table of contents
 * [General info](#general-info)
